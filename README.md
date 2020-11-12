@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is based off of this [Medium Article by Haimo Zhang](https://medium.com/faun/using-aws-amplify-to-develop-full-stack-react-app-part-1-publish-frontend-with-authentication-d9d84b27194e).
+
+Hosting endpoint: [https://d1oqc97kojyer0.cloudfront.net](https://d1oqc97kojyer0.cloudfront.net).
+
 ## Available Scripts
 
 In the project directory, you can run:

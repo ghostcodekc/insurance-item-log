@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-insuranceitemlog-dev-224959-authRole",
+      "UnauthRoleArn": "arn:aws:iam::172861630355:role/amplify-insuranceitemlog-dev-224959-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::172861630355:role/amplify-insuranceitemlog-dev-224959-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-insuranceitemlog-dev-224959-deployment",
+      "UnauthRoleName": "amplify-insuranceitemlog-dev-224959-unauthRole",
+      "StackName": "amplify-insuranceitemlog-dev-224959",
+      "StackId": "arn:aws:cloudformation:us-east-1:172861630355:stack/amplify-insuranceitemlog-dev-224959/86d99380-24a2-11eb-9de8-12cd1b220bcb",
+      "AmplifyAppId": "d3fzm95o0kmgy8"
+    },
+    "categories": {
+      "auth": {
+        "insuranceitemlogfeb9513d": {}
+      }
+    }
+  }
+}
